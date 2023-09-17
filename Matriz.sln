@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaMatriz", "Matriz\SumaMatriz.csproj", "{CEAD0F12-5965-4F4D-9D03-33711BCF260E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaMatrizTest", "SumaMatrizTest\SumaMatrizTest.csproj", "{76EFA2EA-D631-4A2A-B639-3732CB336382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAD0F12-5965-4F4D-9D03-33711BCF260E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAD0F12-5965-4F4D-9D03-33711BCF260E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAD0F12-5965-4F4D-9D03-33711BCF260E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAD0F12-5965-4F4D-9D03-33711BCF260E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EFA2EA-D631-4A2A-B639-3732CB336382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EFA2EA-D631-4A2A-B639-3732CB336382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EFA2EA-D631-4A2A-B639-3732CB336382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EFA2EA-D631-4A2A-B639-3732CB336382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C59A95-01FD-4EA2-8970-C02BFAD2F278}
+	EndGlobalSection
+EndGlobal

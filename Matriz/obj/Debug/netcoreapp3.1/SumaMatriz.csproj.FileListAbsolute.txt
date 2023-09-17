@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.exe
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.deps.json
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.runtimeconfig.json
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.dll
+C:\Users\Usuario\source\repos\Matriz\Matriz\bin\Debug\netcoreapp3.1\SumaMatriz.pdb
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.dll
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.pdb
+C:\Users\Usuario\source\repos\Matriz\Matriz\obj\Debug\netcoreapp3.1\SumaMatriz.genruntimeconfig.cache
